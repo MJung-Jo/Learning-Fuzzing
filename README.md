@@ -1,6 +1,17 @@
+# Learning-Fuzzing
+
+Special Topics in Software Engineering By Kyungpook National University, Master's 1st year 1st semester
+
+Reference By **Fuzzingbook**
+https://www.fuzzingbook.org/
+
+
 # Code
 
 FINAL_Fuzzer.py
+
+# Video
+https://youtu.be/qrwSRIKgEc8
 
 # Target System
 
