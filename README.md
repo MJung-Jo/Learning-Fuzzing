@@ -79,3 +79,8 @@ class sql_parser_Coverage_Runner(sql_parser_Runner):
         return self._coverage
 ```
 
+# 구성도
+
+Fuzzingbook에서 제공되는 코드 와 이번 과제를 통해 제작한 코드를 비교 한다.
+
+![image](https://github.com/MJung-Jo/Learning-Fuzzing/assets/137114390/ca0219e2-3578-460b-96d2-0aea143f35d5)
